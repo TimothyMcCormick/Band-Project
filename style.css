@@ -1,0 +1,6 @@
+.bg-main-img{
+  background-image: url('band.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 80vh;
+}
